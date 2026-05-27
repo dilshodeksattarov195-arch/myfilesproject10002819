@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersender",
+        "uuid": 4640074,
+        "checksum": "ctt73j"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
